@@ -1,1 +1,2 @@
-# MSC_Nastran_Solving_Error92
+Action- In this above error files the SOL103 is solved observed the SPC locations were also moving rather than being fixed in all modes with 6 rigid body modes, 
+SOL101 shows these errors. SPC Z translational DOF 3 only fixed later fixed DOF123456 and the ran the file it depicted the results.
